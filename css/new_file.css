@@ -1,0 +1,26 @@
+#content{
+	background-color:#BBADA0;
+	width: 500px;
+	height: 500px;
+	margin: 50px auto;
+	border-radius: 10px;
+	position: relative;
+	
+}
+.null{
+	background-color: #CCC0B3;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	border-radius: 8px;
+	color: white;
+	text-align: center;
+	font-size: 65px;
+	line-height: 100px;
+}
+
+
+
